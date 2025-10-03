@@ -79,7 +79,7 @@
     "@eslint/eslintrc": "^3",
     "@next/bundle-analyzer": "^14.2.14",
     "@playwright/test": "^1.47.2",
-    "@storybook/nextjs": "^8.4.7",
+    "@storybook/nextjs": "^9.1.10",
     "@storybook/react": "^8.4.7",
     "@testing-library/jest-dom": "^6.7.0",
     "@testing-library/react": "^16.3.0",
