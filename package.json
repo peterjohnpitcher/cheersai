@@ -77,7 +77,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@next/bundle-analyzer": "^14.2.14",
+    "@next/bundle-analyzer": "^15.5.4",
     "@playwright/test": "^1.47.2",
     "@storybook/nextjs": "^8.4.7",
     "@storybook/react": "^8.4.7",
